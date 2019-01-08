@@ -6,4 +6,4 @@ const mapDispatchToProps = dispatch => ({
   updateList: query => dispatch(onQueryChange(query))
 })
 
-export default connect(mapDispatchToProps)(Search)
+export default connect(null,mapDispatchToProps)(Search)

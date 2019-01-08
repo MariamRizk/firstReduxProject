@@ -1,8 +1,10 @@
-body, html {
+ html {
   -webkit-font-smoothing: antialiased;
-  margin: 0;
-  padding: 0;
-  background-image: url("background5.jpg");
+  margin-right: 170px;
+  padding: 170px;
+  background: url("background3.gif");
+  background-color: #f1f1f1;
+  background-repeat: no-repeat;
   font-family: 'Raleway', sans-serif;
   -webkit-text-size-adjust: 100%;
 }
